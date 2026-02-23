@@ -21,7 +21,11 @@ Integración con WhatsApp Web API
 Pecado de fondo. Sin base de datos. Todo el front-end.
 
 📂 Estructura del proyecto
-📁 proyecto ├── index.html ├── styles.css ├── app.js ├── /imágenes
+📁 proyecto 
+├── index.html 
+├── styles.css 
+├── app.js 
+├── /imágenes
 
 🛒 Funcionalidades principales
 ✔ Sistema de compra
